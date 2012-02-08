@@ -213,7 +213,8 @@ namespace IzorPizza
 
             label3.Text = "$" + total2;
 
-            System.IO.File.WriteAllText(@"C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\OrderReceipt.txt", label2.Text + label3.Text);
+            // Removed writing the order to a text file because of pathing issues, I will discuss this issue in class
+            //System.IO.File.WriteAllText(@"C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\OrderReceipt.txt", label2.Text + label3.Text);
              
 
         }

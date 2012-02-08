@@ -34,3 +34,12 @@ C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Form1.re
 C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Properties.Resources.resources
 C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.exe
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.pdb
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\bin\Debug\IzorPizza.exe
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\bin\Debug\IzorPizza.pdb
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Form1.resources
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Properties.Resources.resources
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Izor_Pizza_Program\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.write.1.tlog
