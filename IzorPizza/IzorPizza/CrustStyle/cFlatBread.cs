@@ -17,7 +17,7 @@ namespace IzorPizza
 
         public override string getDesc()
         {
-            return thePizza.getDesc() + " Flat Bread Crust Style";
+            return thePizza.getDesc() + " Flat Bread, ";
         }
 
 

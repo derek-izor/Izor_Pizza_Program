@@ -17,7 +17,7 @@ namespace IzorPizza
 
         public override string getDesc()
         {
-            return thePizza.getDesc() + " Deep Dish Crust Style";
+            return thePizza.getDesc() + " Deep Dish, ";
         }
 
 

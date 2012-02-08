@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cCrustStyle.cs" />
+    <Compile Include="CrustStyle\cDeepDish.cs" />
+    <Compile Include="CrustStyle\cFlatBread.cs" />
+    <Compile Include="CrustStyle\cNormal.cs" />
+    <Compile Include="Toppings\cGPepper.cs" />
+    <Compile Include="Toppings\cHam.cs" />
+    <Compile Include="Toppings\cOnions.cs" />
+    <Compile Include="Toppings\cMballs.cs" />
+    <Compile Include="SizeClasses\cLargePizza.cs" />
+    <Compile Include="SizeClasses\cMedPizza.cs" />
+    <Compile Include="SizeClasses\cSmallPizza.cs" />
+    <Compile Include="cPizza.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +66,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="cTopping.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -72,6 +88,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OrderReceipt.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

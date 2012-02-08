@@ -16,7 +16,7 @@ namespace IzorPizza
 
         public override string getDesc()
         {
-            return thePizza.getDesc() + ",Onions";
+            return thePizza.getDesc() + " Onions,";
         }
 
 

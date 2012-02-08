@@ -7,10 +7,10 @@ namespace IzorPizza
 {
     public class cLargePizza: cPizza
     {
-        public cLargePizza(String size)
+        public cLargePizza()
         {
-            description = "Large Pizza";
-            this.setSize(size);
+            description = "Large Pizza, ";
+            this.setSize("large");
         }
 
         public override double cost()

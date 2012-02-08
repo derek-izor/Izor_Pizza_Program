@@ -1,0 +1,36 @@
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\bin\Debug\IzorPizza.exe
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\bin\Debug\IzorPizza.pdb
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Form1.resources
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Properties.Resources.resources
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.exe
+c:\users\derek.izor\documents\visual studio 2010\Projects\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.pdb
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.exe
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.pdb
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\bin\Debug\IzorPizza.exe
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\bin\Debug\IzorPizza.pdb
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Form1.resources
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Properties.Resources.resources
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pizor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\HomeRepo\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.exe
+C:\HomeRepo\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.pdb
+C:\HomeRepo\IzorPizza\IzorPizza\bin\Debug\IzorPizza.exe
+C:\HomeRepo\IzorPizza\IzorPizza\bin\Debug\IzorPizza.pdb
+C:\HomeRepo\IzorPizza\IzorPizza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\HomeRepo\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Form1.resources
+C:\HomeRepo\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Properties.Resources.resources
+C:\HomeRepo\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\HomeRepo\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.exe
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.pdb
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\bin\Debug\IzorPizza.exe
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\bin\Debug\IzorPizza.pdb
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Form1.resources
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\IzorPizza.Properties.Resources.resources
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\derek.izor\Desktop\IzorPizza\IzorPizza\obj\x86\Debug\GenerateResource.write.1.tlog
